@@ -1,7 +1,0 @@
-numpy
-Pillow
-ultralytics
-streamlit
-torch==2.0.1
-torchvision
-opencv-python
