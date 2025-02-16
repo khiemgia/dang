@@ -1,6 +1,6 @@
 ultralytics
 streamlit
-torch
+pytorch
 torchvision
 opencv-python
 numpy
